@@ -1,0 +1,17 @@
+{
+  "name": "open-source-research",
+  "version": "0.1.0",
+  "description": "Research papers and data gathering systems with purpose of knowing more about Open-Source community",
+  "scripts": {
+    "collect": "node ./scripts/collect.js",
+    "bake": "node ./scripts/bake.js",
+    "mine": "node ./scripts/mine.js"
+  },
+  "author": "Alireza Sheikholmolouki <alireza.sheikholmouki@gmail.com",
+  "license": "Creative Commons Zero v1.0 Universal",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "handy-storage": "^2.1.6",
+    "node-fetch": "^2.6.0"
+  }
+}
