@@ -12,6 +12,6 @@
   "dependencies": {
     "chalk": "^4.1.0",
     "handy-storage": "^2.1.6",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
